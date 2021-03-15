@@ -1,2 +1,2 @@
 # foxes
-Random fox picture from website
+Displays random fox pictures from website
